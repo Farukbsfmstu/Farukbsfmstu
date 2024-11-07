@@ -10,15 +10,15 @@
 - 🌱 I’m currently learning SpringBoot & Angular 
 <br>
 ### Languages and Tools: 
-<div style="display: flex; align-items: center;">
-    <img alt="HTML5" height="60px" width="80px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/java.png" />
-    <img alt="C++" height="60px" width="70px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/cpp.png" />
-    <img alt="Spring" height="70px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/spring.png" />
-    <img alt="Angular" height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/angular.png" />
-    <img alt="MySQL" height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/mysql.png" />
-    <img alt="Bootstrap" height="60px" width="110px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/bootstrap.png" />
-    <img alt="Selenium" height="100px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/selenium.png"/>
-</div>
+<img align="left" alt="Java" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/java.png" /> 
+<img align="left" alt="C++" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/cpp.png" /> 
+<img align="left" alt="Spring" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/spring.png" /> 
+<img align="left" alt="Angular" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/angular.png" /> 
+<img align="left" alt="MySQL" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/mysql.png" /> 
+<img align="left" alt="Bootstrap" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/bootstrap.png" /> 
+<img align="left" alt="Selenium" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/selenium.png" />
+
+<br clear="left" />
 
 
 <br>
