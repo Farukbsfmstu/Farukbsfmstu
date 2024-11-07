@@ -2,7 +2,7 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
 ### Assalamualikum I am Faruk Ahmad 👋
-[![Linkedin Badge](https://img.shields.io/badge/-faruk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/faruk-ahmad-b5465b285/)](https://www.linkedin.com/in/faruk-ahmad-b5465b285/)
+[![Linkedin Badge](https://img.shields.io/badge/-farukahmad-green?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/faruk-ahmad-b5465b285/)](https://www.linkedin.com/in/faruk-ahmad-b5465b285/)
 [![Gmail Badge](https://img.shields.io/badge/-faruk.bsfmstu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faruk.bsfmstu@gmail.com)](mailto:faruk.bsfmstu@gmail.com) 
 
 
