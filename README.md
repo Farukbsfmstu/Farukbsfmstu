@@ -14,10 +14,10 @@
 <img align="left" alt="HTML5" height="60px" width="80px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/java.png" />
 <img align="left" alt="HTML5" height="60px" width="70px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/cpp.png" />
 <img align="left" alt="HTML5" height="70px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/spring.png" />
-<img align="left" alt="SQL" height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/angular.png" />
-<img align="left" alt="MySQL"  height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/mysql.png" />
-<img align="left" alt="Git"  height="70px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/bootstrap.png" />
-<img align="left" alt="GitHub"  height="95px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/selenium.png"/>
+<img align="left" alt="HTML5" height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/angular.png" />
+<img align="left" alt="HTML5"  height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/mysql.png" />
+<img align="left" alt="HTML5"  height="70px" width="110px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/bootstrap.png" />
+<img align="left" alt="HTML5"  height="95px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/selenium.png"/>
 </div>
 
 <br>
