@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning SpringBoot & Angular 
 
 ### Languages and Tools: 
-<img align="left" alt="HTML5" width="50px" src="https://drive.google.com/drive/folders/1Eh9MHOjWNSaiVLkcAwHp9PZYJTP3uNN8" />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/java.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
