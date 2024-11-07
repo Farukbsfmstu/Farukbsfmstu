@@ -11,7 +11,7 @@
 <br>
 ### Languages and Tools: 
 <img align="left" alt="HTML5" height="100px" width="130px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/java.png" />
-<img align="left" alt="HTML5" height="100px" width="150px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/cpp.png" />
+<img align="left" alt="HTML5" height="100px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/cpp.png" />
 <img align="left" alt="HTML5" height="120px" width="170px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/spring.png" />
 <img align="left" alt="SQL" height="130px" width="170px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/angular.png" />
 <img align="left" alt="MySQL"  height="130px" width="170px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/mysql.png" />
