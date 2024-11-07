@@ -16,7 +16,7 @@
 <img align="left" alt="SQL" height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/angular.png" />
 <img align="left" alt="MySQL"  height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/mysql.png" />
 <img align="left" alt="Git"  height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/bootstrap.png" />
-<img align="left" alt="GitHub"  height="900px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/selenium.png"/>
+<img align="left" alt="GitHub"  height="90px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/selenium.png"/>
 
 
 <br>
