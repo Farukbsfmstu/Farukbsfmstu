@@ -3,7 +3,7 @@
 
 ### Assalamualikum I am Faruk Ahmad 👋
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Farukbsfmstu/Online-registration-form/javaimage/gitGif.gif">
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Farukbsfmstu/Online-registration-form/javaimage/gitGif.gif">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-farukahmad-green?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/faruk-ahmad-b5465b285/)](https://www.linkedin.com/in/faruk-ahmad-b5465b285/)
@@ -11,7 +11,7 @@
 
 
 - 🎯 Portfolio website: [Portfolio](https://.github.io/)
-- 🌱 I’m currently learning SpringBoot & Angular 
+- 🌱 I’m currently learning SpringBoot & Angular. I look forward to utilizing my skills both from my education and from the field itself to help build exciting software technologies and push forward the field.
 <br>
 ### Languages and Tools: 
 
