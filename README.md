@@ -1,8 +1,11 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograa31/rodrigograca31/master/matrix.svg)]
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
+
 ### Assalamualikum I am Faruk Ahmad 👋
-<img align="right" alt="coding"width="400"src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/gitGif.gif">
+
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Farukbsfmstu/Online-registration-form/javaimage/gitGif.gif">
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-farukahmad-green?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/faruk-ahmad-b5465b285/)](https://www.linkedin.com/in/faruk-ahmad-b5465b285/)
 [![Gmail Badge](https://img.shields.io/badge/-faruk.bsfmstu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faruk.bsfmstu@gmail.com)](mailto:faruk.bsfmstu@gmail.com) 
 
