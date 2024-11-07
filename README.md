@@ -10,13 +10,13 @@
 - 🌱 I’m currently learning SpringBoot & Angular 
 <br>
 ### Languages and Tools: 
-<img align="left" alt="HTML5" height="80px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/java.png" />
-<img align="left" alt="HTML5" height="80px" width="90px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/cpp.png" />
-<img align="left" alt="HTML5" height="90px" width="140px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/spring.png" />
-<img align="left" alt="SQL" height="80px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/angular.png" />
-<img align="left" alt="MySQL"  height="80px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/mysql.png" />
-<img align="left" alt="Git"  height="80px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/bootstrap.png" />
-<img align="left" alt="GitHub"  height="80px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/selenium.png"/>
+<img align="left" alt="HTML5" height="60px" width="80px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/java.png" />
+<img align="left" alt="HTML5" height="60px" width="70px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/cpp.png" />
+<img align="left" alt="HTML5" height="70px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/spring.png" />
+<img align="left" alt="SQL" height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/angular.png" />
+<img align="left" alt="MySQL"  height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/mysql.png" />
+<img align="left" alt="Git"  height="60px" width="100px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/bootstrap.png" />
+<img align="left" alt="GitHub"  height="900px" width="120px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/selenium.png"/>
 
 
 <br>
