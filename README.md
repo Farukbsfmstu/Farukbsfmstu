@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograa31/rodrigograca31/master/matrix.svg)]
+
 
 
 ### Assalamualikum I am Faruk Ahmad 👋
