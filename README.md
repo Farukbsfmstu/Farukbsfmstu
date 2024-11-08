@@ -6,13 +6,13 @@
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Farukbsfmstu/Online-registration-form/javaimage/gitGif.gif">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-farukahmad-green?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/faruk-ahmad-b5465b285/)](https://www.linkedin.com/in/faruk-ahmad-b5465b285/)
-[![Gmail Badge](https://img.shields.io/badge/-faruk.bsfmstu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faruk.bsfmstu@gmail.com)](mailto:faruk.bsfmstu@gmail.com) 
-
-
 - 🎯 Portfolio website: [Portfolio](https://.github.io/)
 - 🌱 I’m currently learning SpringBoot & Angular. I look forward to utilizing my skills both from my education and from the field itself to help build exciting software technologies and push forward the field.
 <br>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-farukahmad-green?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/faruk-ahmad-b5465b285/)](https://www.linkedin.com/in/faruk-ahmad-b5465b285/)
+[![Gmail Badge](https://img.shields.io/badge/-faruk.bsfmstu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faruk.bsfmstu@gmail.com)](mailto:faruk.bsfmstu@gmail.com) 
 
 ### Languages and Tools: 
 
