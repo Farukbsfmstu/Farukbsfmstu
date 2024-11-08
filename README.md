@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning SpringBoot & Angular. I look forward to utilizing my skills both from my education and from the field itself to help build exciting software technologies and push forward the field.
-- 🎯 Portfolio website: [Portfolio](https://.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://farukbsfmstu.github.io/)
 <br>
 
 
