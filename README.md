@@ -1,7 +1,7 @@
 
 
 
-### Assalamualikum, I am Faruk Ahmad 👋
+### Assalamualikum, I am **Faruk Ahmad** 👋
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Farukbsfmstu/Online-registration-form/javaimage/gitGif.gif">
 
