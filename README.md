@@ -6,8 +6,9 @@
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Farukbsfmstu/Online-registration-form/javaimage/gitGif.gif">
 
 
-- 🎯 Portfolio website: [Portfolio](https://.github.io/)
+
 - 🌱 I’m currently learning SpringBoot & Angular. I look forward to utilizing my skills both from my education and from the field itself to help build exciting software technologies and push forward the field.
+- 🎯 Portfolio website: [Portfolio](https://.github.io/)
 <br>
 
 
