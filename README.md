@@ -3,7 +3,7 @@
 
 ### Assalamualikum, I am **Faruk Ahmad** 👋
 
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Farukbsfmstu/Online-registration-form/javaimage/gitGif.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/gitGif-unscreen.gif">
 
 
 
