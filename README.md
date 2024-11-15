@@ -32,6 +32,6 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farukbsfmstu)](https://github.com/Farukbsfmstu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faruk)](https://github.com/Farukbsfmstu)
 
 
