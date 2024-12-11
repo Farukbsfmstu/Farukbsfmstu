@@ -18,7 +18,6 @@
 ### Languages and Tools: 
 
 <img align="left" alt="Java" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/java.png" /> 
-<img align="left" alt="C++" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/cpp.png" /> 
 <img align="left" alt="Spring" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/spring.png" /> 
 <img align="left" alt="Angular" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/angular.png" /> 
 <img align="left" alt="MySQL" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/mysql.png" /> 
