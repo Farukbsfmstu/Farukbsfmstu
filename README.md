@@ -7,7 +7,9 @@
 
 
 
-- 🌱 I’m currently learning SpringBoot & Angular. I look forward to utilizing my skills both from my education and from the field itself to help build exciting software technologies and push forward the field.
+- 🌱 Highly motivated Computer Science graduate,and skilled in programming, Data Structure ,algorithms,
+software development, and a fast learner with Java.Interested in leveraging my education and the skills in
+the field of software development and pushing forward the field.
 - 🎯 Portfolio website: [Portfolio](https://farukbsfmstu.github.io/)
 <br>
 
