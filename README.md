@@ -7,9 +7,7 @@
 
 
 
-- 🌱 Highly motivated Computer Science graduate,and skilled in programming, Data Structure ,algorithms,
-software development, and a fast learner with Java.Interested in leveraging my education and the skills in
-the field of software development and pushing forward the field.
+- 🌱 Passionate about software engineering, with one year of self-driven experience in backend development using Spring Boot, MySQL, and RESTful APIs. Skilled in Java, data structures, algorithms, and core programming concepts. Eager to grow through real-world projects and continuous learning in tech. 
 - 🎯 Portfolio website: [Portfolio](https://farukbsfmstu.github.io/)
 <br>
 
